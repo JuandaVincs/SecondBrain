@@ -1,0 +1,11 @@
+{
+  "editor:toggle-checklist-status": [],
+  "editor:toggle-fold": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ]
+}

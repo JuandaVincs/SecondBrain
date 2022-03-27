@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "b5f2c02385e43e6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "72e2d258cfed472f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Universidad.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8beff9712f66b819",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Personal pronomen und verben konjugation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c3eb7af7182a615",
+    "type": "split",
+    "children": [
+      {
+        "id": "7af1dadeb02558d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b76078f09302a20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e5e49da00fc42d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Universidad\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 185
+  },
+  "right": {
+    "id": "b21579fd2f292ac1",
+    "type": "split",
+    "children": [
+      {
+        "id": "59165c662492d450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d74edbf4809c9057",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Universidad.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "72e2d258cfed472f",
+  "lastOpenFiles": [
+    "Universidad.md",
+    "Personal pronomen und verben konjugation.md",
+    "Persönliche Informationen.md",
+    "Pasted image 20220325224801.png",
+    "School.md",
+    "Prueba 1.md",
+    "Untitled.md",
+    "Prueba 2.md"
+  ]
+}

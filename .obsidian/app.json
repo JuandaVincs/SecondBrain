@@ -1,0 +1,16 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "es-MX",
+    "de-DE"
+  ],
+  "promptDelete": false,
+  "fileSortOrder": "byCreatedTimeReverse"
+}
