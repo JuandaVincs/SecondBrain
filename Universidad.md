@@ -6,3 +6,4 @@
 2. Historia
 	1.  Leyendas Legendarias
 		1. Las bestias de satán
+		2. Los pollos hermanos
